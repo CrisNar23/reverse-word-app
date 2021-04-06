@@ -12,24 +12,28 @@ git clone https://github.com/CrisNar23/reverse-word-app.git
 
 ## Instalación
 #### Backend
-* Para instalar el backend de este proyecto, abra una consola de comandos y dirijase al directorio donde clonó el repositorio. Ingrese al directorio **core** y ejecute el siguiente comando
+* Para instalar el backend de este proyecto, abra una consola de comandos y dirijase al directorio donde clonó el repositorio. Ingrese al directorio **core** y ejecute el comando:
 ```bash
 npm install
 ```
-* Una vez finalizada la instalación, ejecutar el siguiente comando para iniciar la aplicación:
+* Una vez finalizada la instalación, ejecutar el comando para iniciar la aplicación:
+```bash
+npm start
+```
+* Para realizar los test del endpoint de la aplicación, ejecutar el comando:
 ```bash
 npm start
 ```
 #### Frontend
-* Para instalar el frontend de este proyecto, abra una consola de comandos y dirijase al directorio donde clonó el repositorio. Ingrese al directorio **web** y ejecute el siguiente comando
+* Para instalar el frontend de este proyecto, abra una consola de comandos y dirijase al directorio donde clonó el repositorio. Ingrese al directorio **web** y ejecute el comando
 ```bash
 npm install
 ```
-* Una vez finalizada la instalación, ejecutar el siguiente comando para iniciar la aplicación:
+* Una vez finalizada la instalación, ejecutar el comando para iniciar la aplicación:
 ```bash
 npm start
 ```
 ## Preview
-Cuando el proyecto se esté ejecutando, se visuallizará de la siguiente manera:
+Cuando el proyecto se esté ejecutando, se visuallizará como se muestra a continuación:
 
 ![](/preview.PNG)
