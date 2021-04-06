@@ -22,7 +22,7 @@ npm start
 ```
 * Para realizar los test del endpoint de la aplicación, ejecutar el comando:
 ```bash
-npm start
+npm test
 ```
 #### Frontend
 * Para instalar el frontend de este proyecto, abra una consola de comandos y dirijase al directorio donde clonó el repositorio. Ingrese al directorio **web** y ejecute el comando
