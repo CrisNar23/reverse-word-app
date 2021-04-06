@@ -3,8 +3,8 @@ Este proyecto se encarga de recibir una cadena de texto, invertir sus cararctere
 
 ## Cómo clonar el proyecto
 Para realizar la clonación del proyecto se debe ingresar al repositorio de la aplicación [Reverse Strings App](https://github.com/CrisNar23/reverse-word-app)
-* Primero, se debe presionar el botón **Code** y seleccionar entre las opciones HTTP o SSH y copiar el enlace del proyecto.
-* En la consola de comandos, ubíquese en el directorio de su preferencia y debe ingresar el comando git clone seguido del enlace copiado en el paso anterior como se muestra a continuación:
+* Primero, se debe presionar el botón **Code**,seleccionar entre las opciones HTTP o SSH y copiar el enlace del proyecto.
+* En la consola de comandos, ubíquese en el directorio en donde quiere clonar el proyecto y debe ingresar el comando git clone seguido del enlace copiado en el paso anterior como se muestra a continuación:
 ```bash
 git clone https://github.com/CrisNar23/reverse-word-app.git
 ```
@@ -32,4 +32,4 @@ npm start
 ## Preview
 Cuando el proyecto se esté ejecutando, se visuallizará de la siguiente manera:
 
-![](/preview.png)
+![](/preview.PNG)
