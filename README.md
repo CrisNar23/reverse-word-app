@@ -41,4 +41,4 @@ Cuando el proyecto se esté ejecutando, se visuallizará como se muestra a conti
 ### Notas
 * El proyecto corre bajo la versión 12.18.3 de Node.JS.
 * Se realizaron los puntos opcionales del API, implementando Standard.js y creando el flag para determinar si la cadena de texto es palíndromo o no.
-* Se realizó el punto opcional del frontend implementando Redux.
+* Se realizó el punto opcional del frontend implementando Redux bajo la estructura DUCKS.
