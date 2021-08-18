@@ -8,7 +8,7 @@ Para realizar la clonación del proyecto se debe ingresar al repositorio de la a
 ```bash
 git clone https://github.com/CrisNar23/reverse-word-app.git
 ```
-* Finalmente, el proyecto ya estará copiado en la ruta que seleccionó y listo para ser instalado.
+* Finalmente, el proyecto ya estará copiado en la ruta que seleccionó y listo para ser instalado..
 
 ## Instalación
 #### Backend
